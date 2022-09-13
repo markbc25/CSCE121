@@ -1,4 +1,4 @@
-# CSCE121
+# Introduction to Program Design and Concepts
 A collection of all assignments from TAMU CSCE 121 Fall 2021.
 
 This is simply a showcase of my work to be used as solid reference for potential employers.
